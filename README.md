@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kavya1828
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java full stack
+- 👀 I’m interested in web development front end
+- 🌱 I’m currently learning new language
 
 
 <!---
